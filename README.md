@@ -88,12 +88,11 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DamianCabrio&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=JonathanAsnes&&style=flat-square" align="center" />
 </div>  
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DamianCabrio&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JonathanAsnes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damiancabrio&show_icons=true&locale=en&layout=compact" alt="damiancabrio" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanAsnes&show_icons=true&locale=en&layout=compact" alt="JonathanAsnes" /></div>
 <br/>  
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damiancabrio" alt="damiancabrio" /></a> </div>
-
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JonathanAsnes" alt="JonathanAsnes" /></a> </div>
